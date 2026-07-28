@@ -1,6 +1,6 @@
 # Hi, I'm Samantha Betancourt ☁️
 
-I'm an Information Security Engineer Intern at Cisco and an undergrad studying IT Management with a minor in Cybersecurity at Rider University. I'm mainly interested in cloud security and security engineering. I like building things that make security work faster and less manual.
+I'm an Information Security Engineer Intern at Cisco. I'm mainly interested in cloud security and security engineering. I like building things that make security work faster and less manual.
 
 - Familiarizing myself with serverless security automation (AWS Lambda, API Gateway, SQS)
 - B.S.B.A. in IT Management, Cybersecurity Minor @ Rider University (Expected May 2027)
