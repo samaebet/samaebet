@@ -1,28 +1,21 @@
 # Hi, I'm Samantha Betancourt ☁️
 
-I'm an Information Security Engineer Intern at Cisco. I'm mainly interested in cloud security and security engineering. I like building things that make security work faster and less manual.
+I'm a senior at Rider University, studying IT Management with a minor in Cybersecurity. I'm passionate about security engineering and expanding inclusion in tech!
 
-- Familiarizing myself with serverless security automation (AWS Lambda, API Gateway, SQS)
-- B.S.B.A. in IT Management, Cybersecurity Minor @ Rider University (Expected May 2027)
-- Break Through Tech Fellow, completing a 12-month AI program
-- Exploring AI/ML applications to apply to network security and security engineering
+- Prev. Information Security Engineer Intern @ Cisco
+- Fellow @ Break Through Tech 
 - Reach me at samaebet@gmail.com
 
 ---
 
 ## Tech Stack
 
-**Languages & Frameworks**
-`Python` `NIST CSF 2.0` `SDLC`
+**Programming & Frameworks**
+`Python` `boto3` `REST APIs` `NIST CSF 2.0` `OWASP` `SDLC` `Zero Trust`
 
-**Cloud & Security Tools**
-`AWS (Lambda, API Gateway, SQS)` `Splunk` `Wireshark` `Scapy` `OSINT`
-
-**Dev & Collaboration Tools**
-`Bruno` `Claude Code` `GitLab` `Jira` `Notebook LM` `Ollama` `Google Suite`
-
-**Data & Analysis**
-`Excel` `Tableau` `Gemini`
+**Tools & Platforms**
+`AWS GovCloud (Lambda, API Gateway, SQS, Secrets Manager, CloudWatch, IAM)` `Terraform` `Bruno` `Claude Code`
+`Excel` `Gemini` `GitLab` `Google Suite` `Jira` `Notebook LM` `Ollama` `Splunk` `Webex` `Wireshark`
 
 **Languages**
 English (fluent), Spanish (advanced)
@@ -42,13 +35,13 @@ Engineered a multi-threaded Python program to capture and log background keystro
 
 ---
 
-## Leadership & Interests
+## Leadership & Involvement
 
-- **President**, Rider Women in Cybersecurity (WiCyS) Student Chapter — initiated an AWS partnership event hosting 40 students in cloud security challenges (S3, EC2, CloudWatch), and support member engagement through content and Tech Expo logistics
-- **Fellow**, Break Through Tech — selected from 4.3K+ applicants for a competitive 12-month AI program
-- Active in Women in Cybersecurity (WiCyS), ColorStack, HISPA, and Rewriting the Code, and serve as a Community Influencer for Rewriting the Code
-- Mentor students locally and nationally in tech and cybersecurity
-- Past experience includes cybersecurity engineering work with the New Jersey Courts (NIST CSF 2.0, AI governance) and risk consulting at Chubb
+- **President**, Rider Women in Cybersecurity (WiCyS) Student Chapter — Initiated campus event with AWS, hosting 40 students in cloud security challenges using S3, EC2, and CloudWatch services, created a 10-part series of experiences at WiCyS 2026 conference 
+- **Vice President**, Transer Student Association
+- **Vice President of Marketing**, FBLA (Future Business Leaders of America) - 2026 State Leadership Conference 2nd Place Cybersecurity Objective Test, 4th Place Technology and Computer Science Case Competition
+- Active in ColorStack, HISPA, and a Community Influencer @ Rewriting the Code
+
 
 ---
 
